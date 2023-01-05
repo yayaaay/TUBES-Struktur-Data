@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672058461 source:c:\users\muhammad dhiyaul haq\documents\tp\bluelock\bluelock.cpp
+	"bluelock.h"
+	<math.h>
+
+1672058461 c:\users\muhammad dhiyaul haq\documents\tp\bluelock\bluelock.h
+	<iostream>
+
+1672048733 source:c:\users\muhammad dhiyaul haq\documents\tp\bluelock\main.cpp
+	"bluelock.h"
+
